@@ -1,3 +1,4 @@
 created github account
 installed github desktop and git version
 completed installing and configuring
+updating is also done
